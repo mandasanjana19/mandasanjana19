@@ -2,7 +2,7 @@
 
 # Hi, I'm Manda Sanjana 👋
 
-### B.Tech CSE @ ABV-IIITM Gwalior | ML · DBMS · Development
+### B.Tech CSE @ ABV-IIITM Gwalior | ML · DBMS · Web Development
 
 [![Email](https://img.shields.io/badge/Email-sanjanakiran19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjanakiran19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manda-sanjana-2ba158299/)
@@ -16,7 +16,7 @@
 - 🎓 B.Tech in Computer Science, ABV-IIITM Gwalior (2023 – 2027)
 - 💼 Worked as an **Application Engineer Intern** at Accenture — built a chatbot on Oracle EPBCS that answers user queries and updates dataforms/dashboards dynamically (Cohere API, Oracle EPM REST sources, PL/SQL)
 - 🛠️ Currently working on a **coding assessment platform** project, built with Next.js and Supabase
-- 🌱 Interested in **Machine Learning, Database Management Systems, and Development** — I enjoy building apps and web projects like coding platforms or ML/Streamlit apps
+- 🌱 Interested in **Machine Learning, Database Management Systems, and Web Development**
 - 📫 Reach me at **sanjanakiran19@gmail.com**
 
 ---
