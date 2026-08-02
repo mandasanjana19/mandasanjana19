@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Sanjana 👋
+# Hi, I'm Manda Sanjana 👋
 
-### B.Tech CSE @ ABV-IIITM Gwalior | DBMS · ML
+### B.Tech CSE @ ABV-IIITM Gwalior | ML · DBMS · Development
 
 [![Email](https://img.shields.io/badge/Email-sanjanakiran19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjanakiran19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manda-sanjana-2ba158299/)
 
 </div>
 
@@ -15,7 +15,8 @@
 
 - 🎓 B.Tech in Computer Science, ABV-IIITM Gwalior (2023 – 2027)
 - 💼 Worked as an **Application Engineer Intern** at Accenture — built a chatbot on Oracle EPBCS that answers user queries and updates dataforms/dashboards dynamically (Cohere API, Oracle EPM REST sources, PL/SQL)
-- 🌱 Interested in **Database Management Systems and Machine Learning**
+- 🛠️ Currently working on a **coding assessment platform** project, built with Next.js and Supabase
+- 🌱 Interested in **Machine Learning, Database Management Systems, and Development** — I enjoy building apps and web projects like coding platforms or ML/Streamlit apps
 - 📫 Reach me at **sanjanakiran19@gmail.com**
 
 ---
@@ -51,7 +52,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
